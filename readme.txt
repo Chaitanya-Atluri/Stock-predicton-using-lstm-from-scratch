@@ -1,4 +1,4 @@
-# ml-final-stock-pred-using-lstm
+# Stock prediction using lstm from scratch
 
 The final report is the IEEE format representation of our project
 
